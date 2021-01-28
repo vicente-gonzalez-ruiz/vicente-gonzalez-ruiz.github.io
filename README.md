@@ -1,7 +1,8 @@
 ![careto](careto.png)
 
-Welcome!
-=======
+hola
+
+# Welcome!
 
 * [Research](https://vicente-gonzalez-ruiz.github.io/research/).
 * [Teaching](https://vicente-gonzalez-ruiz.github.io/teaching/).
