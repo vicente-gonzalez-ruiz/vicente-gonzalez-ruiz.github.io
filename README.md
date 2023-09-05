@@ -3,5 +3,5 @@
 # Welcome!
 
 * [Research](https://vicente-gonzalez-ruiz.github.io/research/).
-* [Teaching](https://vicente-gonzalez-ruiz.github.io/teaching/).
+* [Work](https://vicente-gonzalez-ruiz.github.io/work/).
 * [Curriculum Vitae](https://vicente-gonzalez-ruiz.github.io/ridiculum/).
