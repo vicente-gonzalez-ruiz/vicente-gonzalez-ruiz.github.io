@@ -2,7 +2,7 @@
 
 # Welcome!
 
-* [Curriculum Vitae](https://vicente-gonzalez-ruiz.github.io/ridiculum/).
-* [Research](https://vicente-gonzalez-ruiz.github.io/Research/).
+* [Research/Teaching](https://vicente-gonzalez-ruiz.github.io/ridiculum/).
+* [Biography](https://vicente-gonzalez-ruiz.github.io/VGR/).
 * [Positions](https://vicente-gonzalez-ruiz.github.io/Positions/).
 * [Final B.Sc./M.Sc. degree projects](https://vicente-gonzalez-ruiz.github.io/degree_projects_list/).
