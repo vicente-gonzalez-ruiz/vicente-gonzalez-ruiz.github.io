@@ -4,5 +4,5 @@
 * [Research/Teaching](https://vicente-gonzalez-ruiz.github.io/ridiculum/).
 * [Biography](https://vicente-gonzalez-ruiz.github.io/VGR/).
 * [Positions](https://vicente-gonzalez-ruiz.github.io/Positions/).
-* [Bachelor/Master project supervision](https://vicente-gonzalez-ruiz.github.io/ridiculum/#x1-2700014).
+* [Bachelor/Master project supervision](https://vicente-gonzalez-ruiz.github.io/projects_list/).
 * [Resources at GitHub](https://github.com/vicente-gonzalez-ruiz).
