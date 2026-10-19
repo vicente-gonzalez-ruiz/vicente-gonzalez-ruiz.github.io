@@ -1,5 +1,4 @@
-![careto](careto.png)
-
+<img src="careto.png" alt="careto" width="100" />
 # Welcome!
 
 * [Research/Teaching](https://vicente-gonzalez-ruiz.github.io/ridiculum/).
